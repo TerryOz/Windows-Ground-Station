@@ -1,0 +1,35 @@
+﻿​FoxTelem
+~~~~~~~~
+by Chris Thompson g0kla/ac2cz
+
+The Foxtelem Manual (pdf) describes the steps to install FoxTelem for the first 
+time.  It has also been updated for all the new changes and features in this 
+release.
+
+If you already have FoxTelem installed, we recommend that you install this 
+version in a new directory.  First, take a copy of your data and save it
+as a backup.  When you run FoxTelem for the first time it should 
+locate your existing data.  If you are running it from a shortcut, script or 
+batchfile, make sure you change the shortcut to the new program.  The location 
+of the logfiles stays the same.
+
+If your existing data is not loaded, then go to File > Settings screen and 
+select the log files directory.  This may be the old installation directory 
+if you picked the "simple" installation method originally and wrote the data 
+files in the same directory as FoxTelem.  
+
+If you do not like the location of your data you can simply copy the folder 
+somewhere else. You can then "point" FoxTelem at the data folder from the 
+File > Settings menu.  In this way, you can have as many data folders as you 
+like.
+
+For example, you can setup two or more logfile directories.  One for your local
+data and one for data downloaded from the server. See the manual for details.
+
+You can also create different scripts, batchfiles or shortcuts to launch as
+many copies of FoxTelem as you like.  Pass the path to the logfile directories 
+on the command line.
+
+-- 
+Chris E. Thompson
+g0kla@arrl.net​
